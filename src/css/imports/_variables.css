@@ -1,6 +1,6 @@
 :root {
 	/* Colors */
-	--primary: rgba(255, 68, 0, 1);
+	--primary: rgba(43, 37, 35, 1);
 	--highlight: rgba(254, 213, 198, 1);
 	--white: rgba(255, 255, 255, 1);
 	--off-white: rgba(255, 253, 252, 1);
@@ -36,6 +36,6 @@
 	--spacing-extra-extra-extra-large: 16rem;
 
 	/* Miscelaneous */
-	--border-radius: .25rem;
+	--border-radius: .125rem;
 	--hover-transition: all 150ms ease;
 }
