@@ -17,6 +17,7 @@
   z-index: 666;
   margin: auto !important;
   margin-top: 0.75rem;
+  width: 100%;
 }
 
 .flex-none { flex: none; }
