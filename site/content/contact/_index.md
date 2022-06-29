@@ -6,7 +6,7 @@ contact_entries:
     text: "Berzeligatan 20  
     412 53 Göteborg"
   - heading: Öppettider
-    text: "Öppet enligt avtalad tid"
+    text: "Boka en tid för att besöka vår ateljé"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis cursus scelerisque ante, ac tempor ex finibus sed. Aenean ut eros ipsum. Mauris massa orci, imperdiet nec auctor ut, efficitur nec neque. 
