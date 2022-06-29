@@ -26,6 +26,7 @@
   z-index: 666;
   margin: auto !important;
   width: 100% !important;
+  white-space: nowrap !important;
 }
 
 .flex-none { flex: none; }
