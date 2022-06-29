@@ -15,8 +15,8 @@
   align-items: center !important;
   position: fixed;
   z-index: 666;
-  margin: auto !important;
-  /*margin-top: 0.75rem;*/
+  /*margin: auto !important;
+  margin-top: 0.75rem;*/
   height: 120px;
 }
 .navigation {
