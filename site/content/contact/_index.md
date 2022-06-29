@@ -3,7 +3,7 @@ title: "Kontakt"
 logo: "/img/home-jumbotron.gif"
 contact_entries:
   - heading: Address
-    text: "BERZELIIGATAN 20  
+    text: "Berzeligatan 20  
     412 53 Göteborg"
   - heading: Öppettider
     text: "Öppet enligt avtalad tid"
