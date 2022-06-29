@@ -14,10 +14,10 @@
   transition: var(--hover-transition);
 
   &:before {
-    content: '&twoheadrightarrow;';
+    content: '+ ';
   }
 
   &:after {
-    content: '&twoheadlefttarrow;';
+    content: ' +';
   }
 }
