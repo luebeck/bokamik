@@ -1,7 +1,7 @@
 ---
 title: "Butik"
 type: products
-image: /img/products-jumbotron.jpg
+image:
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their

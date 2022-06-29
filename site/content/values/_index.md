@@ -1,6 +1,6 @@
 ---
 title: "Om oss"
-image: /img/about-jumbotron.jpg
+image: 
 values:
   - heading: "Shade-grown coffee"
     text: >
