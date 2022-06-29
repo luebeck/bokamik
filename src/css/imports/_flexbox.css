@@ -9,6 +9,16 @@
   min-height: 0; /* 1 */
 }
 
+.symbol {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  z-index: 666;
+  margin: auto;
+  margin-top: 0.75rem;
+}
+
 .flex-none { flex: none; }
 
 .flex-column  { flex-direction: column; }
