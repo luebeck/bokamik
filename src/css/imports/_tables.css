@@ -25,6 +25,8 @@ tr th {
   text-align: center;
 }
 
+
 tbody tr:nth-child(even) {
   background-color: var(--grey-1);
 }
+
