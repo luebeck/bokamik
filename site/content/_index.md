@@ -1,6 +1,6 @@
 ---
-title: "Bokamik"
-subtitle: Böcker i ett expanderat fält
+title: "Böcker i ett expanderat fält"
+subtitle: 
 image: /img/home-jumbotron.gif
 blurb:
     heading: "Nyheter"
