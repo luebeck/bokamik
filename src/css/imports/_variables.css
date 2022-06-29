@@ -21,6 +21,8 @@
 	--body-font-weight: 400;
 	--bold-font-weight: 700;
 
+	--heading-font-family: 'Libre Franklin', 'arial black', arial, sans-serif;
+
 
 	/* Sizing */
 	--spacing-none: 0;
@@ -35,8 +37,4 @@
 	/* Miscelaneous */
 	--border-radius: .25rem;
 	--hover-transition: all 150ms ease;
-}
-
-h1, h2 {
-	--font-family: 'Libre Franklin', 'arial black', arial, sans-serif;
 }
