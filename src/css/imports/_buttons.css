@@ -4,12 +4,12 @@
   font-family: var(--heading-font-family);
   font-size: var(--spacing-medium);
   line-height: 1.25;
-  background-color: var(--primary);
+  background-color: var(--white);
   border-radius: var(--border-radius);
   text-decoration: none;
   text-transform: uppercase;
   font-weight: var(--bold-font-weight);
-  color: var(--white);
+  color: var(--primary);
   text-align: center;
   box-shadow: inset 0 0 0 2px var(--primary);
   transition: var(--hover-transition);
