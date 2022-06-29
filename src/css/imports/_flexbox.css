@@ -11,11 +11,11 @@
 
 .symbol {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: center !important;
+  align-items: center !important;
   position: fixed;
   z-index: 666;
-  margin: auto;
+  margin: auto !important;
   margin-top: 0.75rem;
 }
 
