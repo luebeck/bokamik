@@ -1,13 +1,18 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Bokamik"
+subtitle: Böcker i ett expanderat fält
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Om oss
+    text: "En berättelse kan vara och ta sig uttryck på så många sätt: i text, i bild, i ljud, i fysisk form som skulptur eller som ljusprojektioner. Stranden är vår första bok tryckt i 300 ex som vi ger ut helt på egen hand och på utställningen presenterar vi den i olika former som alla vidrör samma berättelse. Det handlar om våra och naturens avtryck, det som finns och funnits och det som kommer sen."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "Stranden"
+    text: "Nu kan du beställa Stranden!
+    Skicka mail till mail@loveantell.se
+    Skriv ditt namn och adress.
+    Så skickar vi dig ett exemplar av boken.
+    Pappersfaktura medföljer.
+    Pris: 179:-, frakt ingår i priset."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
