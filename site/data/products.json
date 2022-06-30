@@ -1,10 +1,10 @@
 [
     {
-      "id": "STRATUS",
-      "name": "Stratus",
-      "price": 9.95,
+      "id": "STRANDEN",
+      "name": "Stranden",
+      "price": 179.00,
       "image": "",
-      "description": "Unlimited low, low clouds for one low, low price!",
-      "product_url": "/"
+      "description": "En öde strand är full av saker. Men vem har varit här? En allaåldersbok av Jenny Bjarnar och Love Antell.",
+      "product_url": "/img/product-stranden.jpg"
     }
   ]
