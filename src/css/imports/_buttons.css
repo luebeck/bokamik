@@ -10,9 +10,4 @@
   color: var(--primary);
   text-align: center;
   transition: var(--hover-transition);
-
-  &:before {
-    content: '† ';
-  }
-
 }
