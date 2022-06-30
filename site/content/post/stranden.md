@@ -1,7 +1,7 @@
 ---
 title: Stranden
-date: 2022-06-30
-description:
+date: 2022-06-30T00:00:10.000Z
+description: >-
   Välkomna till vernissage för utställningen Stranden som bygger på en barnbok med samma namn. Utställningen består av originalbilder, keramik, texter och ljud- och ljusinstallationer av Jenny Bjarnar och Love Antell.
 image: /img/product-stranden.jpg
 ---
