@@ -14,8 +14,8 @@
 	--font-family: 'EB Garamond', garamond, times, 'times new roman', serif;
 	--line-height: 1.5;
 
-	--font-size: 1.8rem;
-	--font-size-m: 2.0rem;
+	--font-size: 0.8rem; /* 1.8, 2.0 */
+	--font-size-m: 1.8rem;
 	--font-size-l: 2.2rem;
 	--font-size-xl: 2.4rem;
 
