@@ -9,7 +9,7 @@ intro:
     heading: "Stranden"
     text: "En öde strand är full av saker. Men vem har varit här? En allaåldersbok av Jenny Bjarnar och Love Antell."
 values:
-    heading: Stranden
-    text: "En berättelse kan vara och ta sig uttryck på så många sätt: i text, i bild, i ljud, i fysisk form som skulptur eller som ljusprojektioner. Stranden är vår första bok tryckt i 300 ex som vi ger ut helt på egen hand och på utställningen presenterar vi den i olika former som alla vidrör samma berättelse. Det handlar om våra och naturens avtryck, det som finns och funnits och det som kommer sen."
+    heading: Om Bokamik
+    text: "En berättelse kan vara och ta sig uttryck på så många sätt: i text, i bild, i ljud, i fysisk form som skulptur eller som ljusprojektioner. Det handlar om våra och naturens avtryck, det som finns och funnits och det som kommer sen."
 ---
 
