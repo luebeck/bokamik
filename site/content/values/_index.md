@@ -2,13 +2,9 @@
 title: "Om oss"
 image: 
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Böcker i ett expanderat fält"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
+      En berättelse kan vara och ta sig uttryck på många sätt: i text, i bild, i ljud, i fysisk form som skulptur eller som ljusprojektioner. Stranden är vår första bok tryckt i 300 exemplar som vi ger ut på eget förlag. På utställningen presenterar vi olika verk som alla vidrör samma berättelse. Det handlar om vår civilisations avtryck, det som finns och funnits och det som kommer sen...
     imageUrl: "/img/about-shade-grown.jpg"
   - heading: "Single origin"
     text: >
