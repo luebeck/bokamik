@@ -11,6 +11,7 @@
 
 .symbol {
   display: flex;
+  margin-top: -1rem;
   justify-content: center !important;
   align-items: center !important;
   position: fixed;
