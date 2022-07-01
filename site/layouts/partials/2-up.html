@@ -15,7 +15,7 @@
     <div class="product">
       <h2 class="product__name">{{ .name }}</h2>
       {{ with .image }}
-        <img class="product__image w-100" src="{{ . }}" alt="">
+        <img class="product__image" src="{{ . }}" alt="">
       {{ end }}
 
 <!--
@@ -32,7 +32,8 @@
           Köp
         </button>
 -->
-        <a class="btn snipcart-add-item" href="#"
+        <div class="tc">
+          <a class="btn snipcart-add-item" href="#"
           data-item-id="STRANDEN"
           data-item-price="179.00"
           data-item-url="/products/"
@@ -43,6 +44,7 @@
         </a>
       </div>
     </div>
+  </div>
 <!--
     <div class="tc">
       <a href="/products" class="btn raise">Butik</a>
